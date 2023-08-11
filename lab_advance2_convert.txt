@@ -1,0 +1,9 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+C:/Users/admin/OneDrive - post.bgu.ac.il/1
+    lab_advance2.opj
+    lab_advance2.dsn
+C:/Users/admin/OneDrive - post.bgu.ac.il/1/lab_advance2-PSpiceFiles
+C:/Users/admin/OneDrive - post.bgu.ac.il/1/lab_advance2-PSpiceFiles/SCHEMATIC1
